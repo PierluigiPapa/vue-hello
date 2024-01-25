@@ -4,7 +4,7 @@ createApp ({
     data () {
         return {
             message: "Barbero! Barbero! Illuminaci il sentiero!",
-            barbero: "color text-align-center"
+            barbero: "text-center text-success"
         }
     }
 }).mount ('#app')
